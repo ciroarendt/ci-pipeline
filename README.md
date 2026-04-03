@@ -1,5 +1,13 @@
-# CI/CD Pipeline
-![CI](https://github.com/ciroarendt/ci-pipeline/workflows/CI%20Build/badge.svg)
+# Ci Pipeline
 
-Automated workflows - Worker: d1337_ciroarendt
-Updated: 2026-04-03 18:38:49
+Automated CI/CD pipeline for continuous integration and testing.
+
+## Status
+![CI Build](https://github.com/ciroarendt/ci-pipeline/workflows/CI%20Build/badge.svg)
+
+## Features
+- Automated testing
+- Performance benchmarks  
+- Code quality checks
+
+Maintained by DevOps Team.
